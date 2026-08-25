@@ -2,7 +2,7 @@
 Bookbot project
 
 
-This is the REAME for the Bookbot project. 
+This is the README for the Bookbot project. 
 
 I had challenges with:
 Dictionaries 
